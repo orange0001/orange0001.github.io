@@ -1,0 +1,20 @@
+/* Header Image */
+.teemer-header img{
+	min-height:129px;
+}
+/* Link */
+.teemer-footer .col-2 a{
+	color:#ffffff;
+}
+/* Division */
+.teemer-footer .col-3 .arz-flex-container-algin-items-center{
+	color:#ffffff;
+}
+/* Link */
+.col-3 a{
+	color:#ffffff !important;
+}
+/* Heading container */
+.margin div .heading-container{
+	background-color:#201c1c;
+}
